@@ -1,0 +1,5 @@
+{
+	"name": "jquery-gradpick",
+	"version": "0.0.1",
+	"main": ["jquery.gradpick.js"]
+}
